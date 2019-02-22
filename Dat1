@@ -1,0 +1,22 @@
+[
+    {
+        "id": "5f155fc7.c73db",
+        "type": "tab",
+        "label": "Flow 1",
+        "disabled": false,
+        "info": ""
+    },
+    {
+        "id": "c4df57ed.5c9478",
+        "type": "mqtt in",
+        "z": "5f155fc7.c73db",
+        "name": "",
+        "topic": "",
+        "qos": "2",
+        "x": 380,
+        "y": 260,
+        "wires": [
+            []
+        ]
+    }
+]
