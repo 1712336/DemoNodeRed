@@ -18,5 +18,26 @@
         "wires": [
             []
         ]
+    },
+    {
+        "id": "e0a55170.6d4a6",
+        "type": "delay",
+        "z": "5f155fc7.c73db",
+        "name": "",
+        "pauseType": "delay",
+        "timeout": "5",
+        "timeoutUnits": "seconds",
+        "rate": "1",
+        "nbRateUnits": "1",
+        "rateUnits": "second",
+        "randomFirst": "1",
+        "randomLast": "5",
+        "randomUnits": "seconds",
+        "drop": false,
+        "x": 640,
+        "y": 360,
+        "wires": [
+            []
+        ]
     }
 ]
